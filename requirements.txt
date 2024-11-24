@@ -1,0 +1,17 @@
+mlx-lm 
+transformers 
+accelerate 
+peft 
+trl 
+bitsandbytes
+contractions
+spacy
+mlx
+pandas 
+numpy
+scikit-learn
+nltk
+tqdm
+indic-nlp-library
+emoji
+imblearn

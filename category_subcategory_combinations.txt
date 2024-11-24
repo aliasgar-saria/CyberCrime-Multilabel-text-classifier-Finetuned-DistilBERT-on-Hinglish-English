@@ -1,0 +1,39 @@
+Category: Any Other Cyber Crime | Subcategory: Other
+Category: Crime Against Women & Children | Subcategory: Computer Generated CSAM/CSEM
+Category: Crime Against Women & Children | Subcategory: Cyber Blackmailing & Threatening
+Category: Crime Against Women & Children | Subcategory: Sexual Harassment
+Category: Cryptocurrency Crime | Subcategory: Cryptocurrency Fraud
+Category: Cyber Attack/ Dependent Crimes | Subcategory: Data Breach/Theft
+Category: Cyber Attack/ Dependent Crimes | Subcategory: Denial of Service (DoS)/Distributed Denial of Service (DDOS) attacks
+Category: Cyber Attack/ Dependent Crimes | Subcategory: Hacking/Defacement
+Category: Cyber Attack/ Dependent Crimes | Subcategory: Malware Attack
+Category: Cyber Attack/ Dependent Crimes | Subcategory: Ransomware Attack
+Category: Cyber Attack/ Dependent Crimes | Subcategory: SQL Injection
+Category: Cyber Attack/ Dependent Crimes | Subcategory: Tampering with computer source documents
+Category: Cyber Terrorism | Subcategory: Cyber Terrorism
+Category: Hacking  Damage to computercomputer system etc | Subcategory: Damage to computer computer systems etc
+Category: Hacking  Damage to computercomputer system etc | Subcategory: Email Hacking
+Category: Hacking  Damage to computercomputer system etc | Subcategory: Tampering with computer source documents
+Category: Hacking  Damage to computercomputer system etc | Subcategory: Unauthorised AccessData Breach
+Category: Hacking  Damage to computercomputer system etc | Subcategory: Website DefacementHacking
+Category: Online Cyber Trafficking | Subcategory: Online Trafficking
+Category: Online Financial Fraud | Subcategory: Business Email CompromiseEmail Takeover
+Category: Online Financial Fraud | Subcategory: DebitCredit Card FraudSim Swap Fraud
+Category: Online Financial Fraud | Subcategory: DematDepository Fraud
+Category: Online Financial Fraud | Subcategory: EWallet Related Fraud
+Category: Online Financial Fraud | Subcategory: Fraud CallVishing
+Category: Online Financial Fraud | Subcategory: Internet Banking Related Fraud
+Category: Online Financial Fraud | Subcategory: UPI Related Frauds
+Category: Online Gambling  Betting | Subcategory: Online Gambling  Betting
+Category: Online and Social Media Related Crime | Subcategory: Cheating by Impersonation
+Category: Online and Social Media Related Crime | Subcategory: Cyber Bullying  Stalking  Sexting
+Category: Online and Social Media Related Crime | Subcategory: EMail Phishing
+Category: Online and Social Media Related Crime | Subcategory: FakeImpersonating Profile
+Category: Online and Social Media Related Crime | Subcategory: Impersonating Email
+Category: Online and Social Media Related Crime | Subcategory: Intimidating Email
+Category: Online and Social Media Related Crime | Subcategory: Online Job Fraud
+Category: Online and Social Media Related Crime | Subcategory: Online Matrimonial Fraud
+Category: Online and Social Media Related Crime | Subcategory: Profile Hacking Identity Theft
+Category: Online and Social Media Related Crime | Subcategory: Provocative Speech for unlawful acts
+Category: Ransomware | Subcategory: Ransomware
+Category: Report Unlawful Content | Subcategory: Against Interest of sovereignty or integrity of India
